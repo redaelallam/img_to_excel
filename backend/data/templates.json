@@ -1,0 +1,18 @@
+[
+  {
+    "id": "sample_invoice_template",
+    "name": "Modèle de facture",
+    "document_type": "invoice",
+    "column_names": ["Article", "Qté", "Prix", "Total"],
+    "notes": "Modèle de facture initial pour tester le frontend.",
+    "created_at": "2026-04-13T00:00:00+00:00"
+  },
+  {
+    "id": "sample_marksheet_template",
+    "name": "Modèle de relevé de notes",
+    "document_type": "marksheet",
+    "column_names": ["Matière", "Notes", "Mention"],
+    "notes": "Modèle de relevé de notes initial pour tester le frontend.",
+    "created_at": "2026-04-13T00:00:00+00:00"
+  }
+]
